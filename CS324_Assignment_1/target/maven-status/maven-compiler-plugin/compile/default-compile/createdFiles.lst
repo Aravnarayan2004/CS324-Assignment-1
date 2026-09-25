@@ -1,0 +1,12 @@
+common\Job.class
+common\JobResult.class
+common\JobType.class
+common\WorkerInfo.class
+worker\WorkerNode.class
+common\BootstrapRemote.class
+bootstrap\BootstrapNode.class
+client\ClientGUI.class
+worker\WorkerService.class
+common\WorkerRemote.class
+bootstrap\BootstrapService.class
+common\CoordinatorRemote.class
