@@ -8,7 +8,7 @@ From the project folder:
 
 ```text
 mkdir out
-javac -d out src/common/*.java src/bootstrap/*.java src/worker/*.java src/client/*.java
+javac -d out src/main/java/common/*.java src//main/java/bootstrap/*.java src//main/java/worker/*.java src//main/java/client/*.java
 ```
 
 ## Run
