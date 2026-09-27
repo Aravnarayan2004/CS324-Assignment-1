@@ -24,3 +24,4 @@ public interface WorkerRemote extends Remote {
     JobResult executeJob(Job job)
             throws RemoteException;
 }
+
