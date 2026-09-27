@@ -542,3 +542,4 @@ public class ClientGUI extends JFrame {
         );
     }
 }
+
