@@ -22,3 +22,4 @@ public interface BootstrapRemote extends Remote {
     List<WorkerInfo> getActiveWorkers()
             throws RemoteException;
 }
+

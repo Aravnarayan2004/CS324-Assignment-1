@@ -27,3 +27,4 @@ public class WorkerInfo implements Serializable {
                ", JAC=" + jac + "]";
     }
 }
+
