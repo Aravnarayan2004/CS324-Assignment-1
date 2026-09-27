@@ -12,3 +12,4 @@ public interface CoordinatorRemote extends Remote {
     JobResult submitJob(Job job)
             throws RemoteException;
 }
+

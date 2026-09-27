@@ -9,3 +9,4 @@ public enum JobType {
     PRIMESUM,
     PRIMECOUNT
 }
+

@@ -21,3 +21,4 @@ public class JobResult implements Serializable {
         return jobId + " -> " + result;
     }
 }
+
